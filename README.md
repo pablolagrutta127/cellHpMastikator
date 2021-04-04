@@ -1,4 +1,4 @@
 # cellHpMastikator
-calculo de potencia/cara segun incidencia de tráfico UMTS
+forecast of load consumption per sector given UMTS traffic
 
 
